@@ -1,2 +1,8 @@
 # Computational-Materials-Science-Tools
-This is my personal set of tools used for computational material science research. I'm not very experienced with programming, I've only done very simple bash scripts to ease my life, and some occasional Fortran90 routine.
+This is my collection of tool I've used or been using to ease my life as a
+computational material science researcher.
+
+I'm not an experienced programmer. I've just worked a bit with some simple
+yet useful bash scripts and some Fortran programms, nothing too
+fancy.Therefore, all codes will be likely very bad written, and badly
+optimized, that's life.
